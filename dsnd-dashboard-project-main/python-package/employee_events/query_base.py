@@ -1,4 +1,4 @@
-# Import any dependencies needed to execute sql queries
+# Import any dependencies needed to execute sql queriess
 from sqlite3 import connect
 from pathlib import Path
 import pandas as pd
